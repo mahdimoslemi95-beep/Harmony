@@ -29,7 +29,7 @@
 // ——— USER CONFIGURATION SECTION ———
 const USER_SETTINGS = {
   // Your UUID - Replace with your own UUID
-  uuid: "2210f3f0-513d-4d17-9ce2-c094d2f54580",
+  uuid: "2cf4774f-bfce-42ce-b4fe-34440dd2d691",
 
   // Number of configs (IPs) per group
   ipCount: 10,
